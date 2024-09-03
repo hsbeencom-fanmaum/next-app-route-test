@@ -18,7 +18,6 @@ export default async function PokemonPage({
         <Image
           src={data.sprites.front_default}
           alt="Vercel Logo"
-          className="dark:invert"
           width={100}
           height={24}
           priority
